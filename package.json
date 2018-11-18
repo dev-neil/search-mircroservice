@@ -1,0 +1,16 @@
+{
+  "name": "search-microservice",
+  "version": "1.0.0",
+  "description": "REST API built on nodejs for search ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Doshi <dev.neildoshi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0",
+    "nodemon": "^1.18.6"
+  }
+}
